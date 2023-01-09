@@ -1,6 +1,6 @@
 # Portal_Radio
 
-Created the Radio from Portal that plays the sound with a small speaker attached to an arduino Uno!<br>
+Created the Radio from Portal that plays the music with a small speaker attached to an arduino Uno!<br>
 Listen to it here: https://youtube.com/shorts/CCkyZ6tu5aI <br>
 This is my first arduino project and large 3d print. I am pretty happy with the result.
 
